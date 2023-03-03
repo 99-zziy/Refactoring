@@ -1,2 +1,2 @@
 # Refactoring
-Refactoring 2판 읽고 정리하기
+Refactoring 2판 공부
