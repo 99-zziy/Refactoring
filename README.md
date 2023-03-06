@@ -1,2 +1,2 @@
 # Refactoring
-Refactoring 2판 공부
+Refactoring 2판 스터디 📚
